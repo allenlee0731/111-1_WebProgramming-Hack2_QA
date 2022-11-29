@@ -8,7 +8,7 @@
 
 ## TAs' Google Meets (For invitation only)
 * 鄭謹譯：https://meet.google.com/wdo-mmvt-pvp
-* 劉慕德：https://meet.google.com/qsa-mtyc-uax
+* 劉慕德：https://meet.google.com/ibm-vhyx-hia
 * 徐有齊：https://meet.google.com/ckn-rcsf-tga 
 * 莊加旭：https://meet.google.com/fog-mmea-csj
 * 童子瑜：https://meet.google.com/yub-kijz-hsu
