@@ -1,4 +1,5 @@
 # 111-1_WebProgramming-Hack2_QA
+1.終端沒有zip指令：如提，我的終端沒有zip指令，我該怎麼上傳到gradescope
 
 ## General Rules
 1. (**請先看過有沒有類似的 issues?**) Before asking questions, please go through the "issues" first. If there has already been a similar question, follow and comment on it.
